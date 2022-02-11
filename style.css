@@ -17,10 +17,12 @@ h3,p{
     background-color: #fff;
     /* padding: 20px 10px 20px 10px; */
     margin: 10px;
+    font-size: medium;
 }
 .btn:hover{
     cursor: pointer;
     transition: 1s;
+   background-color: #E0E0E0 
 }
 card{
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
@@ -39,4 +41,15 @@ card{
   
   .container {
     padding: 2px 16px;
+  }
+  .fa fa-share-alt{
+color: #A9A9A9;
+  }
+  .side-icons{
+     display: inline-block;
+     margin: 10px;
+   
+  }
+  .icons-first{
+      display: inline;
   }
