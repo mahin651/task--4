@@ -88,3 +88,8 @@ display: inline;
     flex-basis: 40%;
     float: left;
 }
+.side-icons-{
+    display: inline-block;
+    padding-left: 55%;
+    position: relative;
+}
